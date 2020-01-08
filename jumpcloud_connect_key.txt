@@ -1,0 +1,3 @@
+d922bb389867702dbe944008ce4498649bba3861
+
+./InstallWindowsAgent.ps1 -JumpCloudConnectKey "d922bb389867702dbe944008ce4498649bba3861"
